@@ -1,0 +1,1 @@
+1 const usuarios = [ nome: 'Ana', email: 'ana@example.com' nome: 'João', email: 'joao@example.com nome: 'Luís', email: 'luis@example.com' nome: 'Maria', email: 'maria@example.com' ]: O AULA 0% - 4 5 6 7 8 9 10 11 12 const usuarioEncontrado = usuarios. find(usuario =) usuario.nome == I console. log(usuarioEncontrado)
