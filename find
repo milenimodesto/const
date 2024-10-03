@@ -1,1 +1,5 @@
-_objetos.js › ... //Imagine que temos um array de objetos representando //pessoas e queremos encontrar a pessoa com um nome específico. const people = l name: 'Alice', age: 25 }, name: 'Bob', age: 30 }, name: 'Charlie', age: 35 } ]: // Encontrar a pessoa com o nome 'Bob' const person = people.find(person => person. name === 'Bob'): console. log(person): // ( name: 'Bob', age: 30 }
+_objetos.js › 
+ //Imagine que temos um array de objetos representando
+ //pessoas e queremos encontrar a pessoa com um nome específico. const people = l name: 'Alice', age: 25 }, name: 'Bob', age: 30 }, name: 'Charlie', age: 35 } ]: 
+ // Encontrar a pessoa com o nome 'Bob' const person = people.find(person => person. name === 'Bob'): console. log(person):
+  // ( name: 'Bob', age: 30 }
